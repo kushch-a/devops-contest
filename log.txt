@@ -1,0 +1,23 @@
+commit bea1a2866e7260f90167a45d3fe737968137b8d3
+Author: kushch-a <kushch.a0808@lntu.edu.ua>
+Date:   Fri Apr 18 12:58:33 2025 +0000
+
+    Add .gitignore to ignore dotfiles
+
+commit a8a30561a786f5b1b84cccec5ad63ee1750f7d46
+Author: kushch-a <kushch.a0808@lntu.edu.ua>
+Date:   Fri Apr 18 12:58:15 2025 +0000
+
+    Add README.md in kushch-a-new_feature
+
+commit 346828a7be5e8f821dac9c71e7fcf7abfc153873
+Author: kushch-a <kushch.a0808@lntu.edu.ua>
+Date:   Fri Apr 18 12:57:58 2025 +0000
+
+    Add test.txt in dev
+
+commit 8c7a3c4861552f950407d108289dbd68f49beb75
+Author: kushch-a <kushch.a0808@lntu.edu.ua>
+Date:   Fri Apr 18 12:57:27 2025 +0000
+
+    Add Task1/README.md
